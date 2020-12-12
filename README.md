@@ -1,4 +1,8 @@
-# Tableau + React Date Picker - https://tableau-react-date-picker.web.app/
+# Tableau + React Date Picker
+
+Demo: https://tableau-react-date-picker.web.app/
+
+![Date Picker](https://user-images.githubusercontent.com/4500215/101992753-b6752180-3c72-11eb-9075-f381fdc94ff9.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
